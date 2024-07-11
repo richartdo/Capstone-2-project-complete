@@ -1,0 +1,134 @@
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+
+.custom-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+.custom-text{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: gold;     
+}
+
+.custom-text-1{
+  font-family: "Domine", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: gold;
+}
+
+.custom-background{
+    /* background-image:url('./images/background2.jpg'); */
+    background-size: cover;
+    background-color: blue;
+    
+}
+
+body *{
+    /* margin: opx; */
+
+}
+
+.custom-background-1{
+    background-color: blue;
+    border-radius: 50px;
+}
+
+.custom-background-2{
+    background-image:url('./images/backg3.png');
+    margin-top: 0px;
+}
+
+body{
+    background-color: black;
+    display: grid;
+    gap: 0px;
+    border: none;
+}
+
+/* my projects section */
+.custom-div{
+    margin-left: 0px;
+}
+
+.custom-text-2{
+    color: white;
+}
+
+.custom-text-3{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: green;
+    font-size: 5rem;
+}
+
+.custom-text-4{
+    color: black;
+}
+
+.custom-photo{
+    border-radius: 50%;
+}
+
+
+.custom-button{
+    background-color: brown;
+}
+
+
+.custom-list{
+    list-style: none;
+}
+
+.custom-background-3{
+    background-image: url('./images/backg4.png');
+}
+
+.custom-background-4{
+    background-image: url('./images/backg5.png');
+}
+
+.custom-background-5{
+    background-color: rgb(82, 123, 236);
+    border-radius: 5px;
+}
+
+.custom-body{
+    border:none;
+    
+}
+
+.custom-contact{
+    background-color:;
+}
+
+
+.custom-container{
+    width: 100vw;
+    background-color: blue;
+}
+
+.custom-container-1{
+    background-image: url('./images/backg3.png');
+}
+
+/* list-group */
+
+
+
+
